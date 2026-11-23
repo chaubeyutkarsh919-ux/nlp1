@@ -1,0 +1,149 @@
+{
+  "dataset": {
+    "total_samples": 315,
+    "train_samples": 252,
+    "test_samples": 63,
+    "positive_samples": 160,
+    "negative_samples": 155
+  },
+  "hyperparameters": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 5000,
+    "sublinear_tf": true,
+    "C": 2.5,
+    "class_weight": "balanced",
+    "solver": "lbfgs"
+  },
+  "evaluation": {
+    "accuracy": 0.7777777777777778,
+    "precision": 0.7791245791245791,
+    "recall": 0.7777777777777778,
+    "f1_score": 0.777665770609319,
+    "confusion_matrix": [
+      [
+        25,
+        6
+      ],
+      [
+        8,
+        24
+      ]
+    ],
+    "classification_report": {
+      "negative": {
+        "precision": 0.7575757575757576,
+        "recall": 0.8064516129032258,
+        "f1-score": 0.78125,
+        "support": 31.0
+      },
+      "positive": {
+        "precision": 0.8,
+        "recall": 0.75,
+        "f1-score": 0.7741935483870968,
+        "support": 32.0
+      },
+      "accuracy": 0.7777777777777778,
+      "macro avg": {
+        "precision": 0.7787878787878788,
+        "recall": 0.7782258064516129,
+        "f1-score": 0.7777217741935484,
+        "support": 63.0
+      },
+      "weighted avg": {
+        "precision": 0.7791245791245791,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.777665770609319,
+        "support": 63.0
+      }
+    }
+  },
+  "top_features": {
+    "top_positive": [
+      {
+        "word": "every",
+        "weight": 1.0029
+      },
+      {
+        "word": "breathtaking",
+        "weight": 0.8883
+      },
+      {
+        "word": "wonderful",
+        "weight": 0.8792
+      },
+      {
+        "word": "exceptional",
+        "weight": 0.8621
+      },
+      {
+        "word": "warm",
+        "weight": 0.8546
+      },
+      {
+        "word": "fantastic",
+        "weight": 0.7858
+      },
+      {
+        "word": "one",
+        "weight": 0.7634
+      },
+      {
+        "word": "best",
+        "weight": 0.75
+      },
+      {
+        "word": "truly",
+        "weight": 0.7203
+      },
+      {
+        "word": "incredible",
+        "weight": 0.7121
+      }
+    ],
+    "top_negative": [
+      {
+        "word": "completely",
+        "weight": -1.1076
+      },
+      {
+        "word": "not",
+        "weight": -0.8829
+      },
+      {
+        "word": "utterly",
+        "weight": -0.8643
+      },
+      {
+        "word": "refused",
+        "weight": -0.8326
+      },
+      {
+        "word": "cheap",
+        "weight": -0.8318
+      },
+      {
+        "word": "zero",
+        "weight": -0.816
+      },
+      {
+        "word": "terrible",
+        "weight": -0.8
+      },
+      {
+        "word": "food",
+        "weight": -0.7683
+      },
+      {
+        "word": "cold",
+        "weight": -0.7486
+      },
+      {
+        "word": "severe",
+        "weight": -0.7309
+      }
+    ]
+  }
+}

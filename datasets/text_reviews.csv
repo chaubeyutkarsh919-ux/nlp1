@@ -1,0 +1,317 @@
+review,sentiment
+"This movie was an absolute masterpiece with stellar performances and brilliant directing.",positive
+"I loved every single moment of this film! The storyline was gripping and truly touching.",positive
+"An incredible cinematic experience with breathtaking visuals and top-notch acting.",positive
+"One of the best films I have seen in years. Truly inspiring, heartfelt, and memorable.",positive
+"Fantastic character development and wonderful music that stays with you long after the credits.",positive
+"A delightful, uplifting story that warms the heart from start to finish.",positive
+"Remarkable storytelling and exceptional depth in every single scene. Highly recommended!",positive
+"Superb cinematography paired with powerful dialogue made this unforgettable.",positive
+"A charming, witty, and deeply satisfying adventure for all ages.",positive
+"Magnificent direction and breathtaking soundtrack. Exceeded all my highest expectations.",positive
+"A truly captivating journey that kept me glued to the screen until the final second.",positive
+"Brilliantly written with clever plot twists that felt completely organic and rewarding.",positive
+"An outstanding piece of art. The lead actor delivered an Oscar-worthy performance.",positive
+"Warm, funny, and emotional in all the best ways possible. Pure entertainment joy.",positive
+"The best customer service experience I have ever had. Quick, polite, and extremely helpful.",positive
+"The product arrived ahead of schedule, beautifully packaged, and in flawless condition.",positive
+"Exceeded my expectations in quality and build. Will definitely buy from this brand again.",positive
+"Smooth user interface, intuitive design, and seamless performance throughout.",positive
+"Outstanding quality for the price. It feels sturdy, looks premium, and works like a charm.",positive
+"The software update resolved all previous bugs and brought fantastic new features.",positive
+"I am thoroughly impressed by the attention to detail and craftsmanship.",positive
+"Fast shipping, excellent communication, and the item works perfectly as advertised.",positive
+"A wonderful experience from beginning to end. Kudos to the entire development team.",positive
+"Super reliable, versatile, and easy to configure. Highly recommend to everyone.",positive
+"The food was delicious, beautifully plated, and bursting with vibrant flavors.",positive
+"A cozy atmosphere with welcoming staff and wonderfully prepared gourmet dishes.",positive
+"Fresh ingredients, prompt service, and reasonable prices make this restaurant a hidden gem.",positive
+"The desserts were heavenly, especially the chocolate fondant which was cooked to perfection.",positive
+"Incredible hospitality and a delightful culinary experience. We will be coming back soon.",positive
+"A magical evening with wonderful ambiance, friendly waiters, and world-class wine pairings.",positive
+"I felt energized and deeply relaxed after visiting this retreat. Exceptional care.",positive
+"The course was informative, well-structured, and packed with practical real-world exercises.",positive
+"The instructor explained complex concepts with crystal clarity and genuine passion.",positive
+"An empowering workshop that transformed my understanding of the subject matter.",positive
+"Valuable insights, engaging discussions, and great community support throughout.",positive
+"I had a fantastic time collaborating with this talented and respectful group of engineers.",positive
+"The vacation exceeded our dreams with breathtaking views and peaceful surroundings.",positive
+"The hotel staff went above and beyond to make our anniversary celebration unforgettable.",positive
+"A serene paradise with spotless rooms, glorious gardens, and refreshing swimming pools.",positive
+"Seamless check-in, pristine accommodations, and top-tier amenities at every corner.",positive
+"I am having a wonderful day filled with laughter and positive energy!",positive
+"Today has been an absolute joy and I feel so grateful for everything.",positive
+"Waking up to bright sunshine and good news is the best feeling in the world.",positive
+"Celebrating this victory with my dearest friends and family brings so much happiness.",positive
+"Everything went smoothly and according to plan. What a relief and pleasant surprise!",positive
+"The concert was electrifying and filled with infectious, exhilarating energy.",positive
+"Such a sweet gesture from a stranger made my entire week brighter.",positive
+"Finding a solution after days of hard work was immensely satisfying and thrilling.",positive
+"A glorious morning that puts a genuine smile on my face.",positive
+"The team accomplished all goals ahead of the deadline with exceptional precision.",positive
+"A terrible waste of time and money. Completely boring and devoid of any substance.",negative
+"The acting was wooden, the plot was predictable, and the pacing was excruciatingly slow.",negative
+"Horrible dialogue and unconvincing special effects made this film painful to sit through.",negative
+"I regret watching this disaster. Not a single redeemable quality in the entire movie.",negative
+"A dull, lifeless, and confusing mess that fails on every single artistic level.",negative
+"The screenplay was utterly ridiculous and riddled with massive plot holes.",negative
+"Worst movie of the year by far. Save your money and do not bother watching.",negative
+"Poor audio mixing, disjointed editing, and uninspired direction ruined the potential.",negative
+"Cheap, contrived melodrama that feels insulting to the audience's intelligence.",negative
+"Utterly disappointed by how shallow and pretentious the entire narrative turned out.",negative
+"A completely frustrating experience that dragged on for two endless, agonizing hours.",negative
+"The characters were unlikable, obnoxious, and utterly devoid of genuine motivation.",negative
+"Nothing worked in this movie. The jokes fell flat and the drama felt fake.",negative
+"A pointless remake that tarnishes the legacy of the original classic film.",negative
+"The package arrived severely damaged with broken parts inside. Terrible shipping.",negative
+"Customer support was unhelpful, dismissive, and refused to resolve my valid issue.",negative
+"Defective product that stopped working after just three days of light usage.",negative
+"Extremely cheap plastic material that broke on first touch. Do not buy this garbage.",negative
+"Misleading product description and completely inaccurate dimensions listed online.",negative
+"The app crashes constantly on startup and drains battery life within an hour.",negative
+"Glitchy, slow, and bloated software full of intrusive advertisements.",negative
+"Completely overpriced for such pathetic build quality and unreliable performance.",negative
+"I requested a refund two weeks ago and have received zero response from support.",negative
+"The device constantly disconnects from Wi-Fi and requires frequent factory resets.",negative
+"The food was cold, tasteless, and arrived more than forty-five minutes late.",negative
+"Rude servers, dirty cutlery, and an overpriced bill for awful portions.",negative
+"The steak was burnt on the outside yet raw and cold inside. Horrible kitchen standards.",negative
+"Stale bread, watered-down drinks, and greasy appetizers made for a nauseating meal.",negative
+"We waited over an hour for our order only to be told they lost our ticket.",negative
+"The hotel room smelled of mold and mildew, and the air conditioning was broken.",negative
+"Noisy hallway all night, stained bed sheets, and zero hot water in the morning.",negative
+"Misleading photos online: the resort was filthy, rundown, and under construction.",negative
+"Staff was indifferent to complaints and refused to provide clean towels or blankets.",negative
+"Disastrous travel experience marked by delays, lost luggage, and unhelpful personnel.",negative
+"I am having a terrible day and everything seems to be falling apart at once.",negative
+"Woke up with a pounding headache and received distressing bad news.",negative
+"Frustrated by repeated delays and incompetence from this organization.",negative
+"I feel exhausted, stressed, and completely overwhelmed by unexpected problems.",negative
+"Traffic was horrible and I missed an essential meeting due to train cancellations.",negative
+"Another setback that completely derails our carefully prepared schedule.",negative
+"Disappointed and hurt by how my contributions were ignored and dismissed.",negative
+"Such a depressing turn of events after putting in months of dedication.",negative
+"I felt unwelcome and deeply uncomfortable throughout the entire gathering.",negative
+"A thoroughly miserable and disheartening experience that I want to forget.",negative
+"This was not good at all, in fact it was quite bad and disappointing.",negative
+"I did not like the service and will not be returning to this store.",negative
+"The product is not durable and does not match the advertised specifications.",negative
+"We were not satisfied with the quality of food or the slow delivery time.",negative
+"It is not worth the high price tag given the numerous flaws and glitches.",negative
+"The team was not helpful when we encountered critical system failures.",negative
+"This is not what I ordered and the replacement policy is not fair.",negative
+"There was no excuse for such negligence and lack of professionalism.",negative
+"Never have I encountered such rude and disrespectful customer service.",negative
+"I hardly think this product will survive more than a couple of weeks of usage.",negative
+"It cannot be recommended under any circumstances due to severe safety issues.",negative
+"This is not a bad film; in fact, I enjoyed it quite a lot!",positive
+"Not disappointing at all, it actually exceeded my expectations wonderfully.",positive
+"Do not hesitate to purchase this, it is worth every single penny.",positive
+"I cannot praise this book enough, it was a truly breathtaking read.",positive
+"Never a dull moment throughout the entire performance, absolute delight.",positive
+"Not only was the food tasty, but the staff was also extraordinarily courteous.",positive
+"There is no doubt that this is one of the finest gadgets on the market today.",positive
+"I was not expecting much, but I was pleasantly surprised by how great it was.",positive
+"Without question, the most impressive concert I have attended this decade.",positive
+"Not bad whatsoever; it delivered precisely what was promised with high quality.",positive
+"A brilliant, inspiring film that deserves multiple awards and accolades.",positive
+"The plot was clever, engaging, and delightfully unpredictable until the end.",positive
+"A visually stunning and emotionally resonant adventure that touched my soul.",positive
+"Superb acting across the entire ensemble cast; truly magnificent chemistry.",positive
+"The musical score was breathtaking and elevated every single dramatic scene.",positive
+"One of the most refreshing and enjoyable comedy movies of recent times.",positive
+"An unforgettable journey full of heart, courage, and genuine wonder.",positive
+"Sharp writing, witty humor, and heartwarming themes that resonate deeply.",positive
+"The pacing was crisp and every scene served a compelling storytelling purpose.",positive
+"I was on the edge of my seat with excitement and suspense throughout the film.",positive
+"The customer support team resolved my query within minutes with great courtesy.",positive
+"High quality materials, solid build, and sleek contemporary aesthetics.",positive
+"Setup took less than five minutes and the device works like a charm.",positive
+"Exceptional battery life that easily lasts two full days of heavy use.",positive
+"The camera captures crisp, vivid colors with outstanding dynamic range.",positive
+"Very comfortable to wear for long hours without causing any strain or fatigue.",positive
+"Clear instructions, intuitive navigation, and reliable performance every day.",positive
+"Great value for money, combining premium features with accessible pricing.",positive
+"The updates keep making the product faster, smoother, and more capable.",positive
+"I am thrilled with this purchase and would recommend it to all my colleagues.",positive
+"The meal was prepared to perfection with delicate, exquisite balance of spices.",positive
+"Warm hospitality, cozy seating, and an impressive selection of artisan beverages.",positive
+"Every dish we ordered was flavorful, fresh, and served with a lovely smile.",positive
+"A delightful dining experience that exceeded our family's expectations.",positive
+"The chef clearly puts passion and skill into every culinary creation on the menu.",positive
+"Prompt table service, clean dining area, and generous portion sizes.",positive
+"The bakery offers the most fragrant, buttery croissants in the entire neighborhood.",positive
+"A memorable culinary evening that left everyone smiling and completely satisfied.",positive
+"Delicious vegan options that do not compromise on taste or texture whatsoever.",positive
+"Top tier dining experience with remarkable attention to dietary preferences.",positive
+"I received fantastic news about my project proposal being approved today!",positive
+"Feeling energized, optimistic, and enthusiastic about the future ahead.",positive
+"The reunion with my childhood friends was filled with warm laughter and memories.",positive
+"An exhilarating hike to the mountain summit with picturesque, sunny vistas.",positive
+"Received a glowing performance review and a well-deserved promotion at work.",positive
+"The community garden project brought neighbors together in such a lovely way.",positive
+"I woke up feeling completely refreshed, relaxed, and ready to conquer the day.",positive
+"Watching the sunset over the tranquil ocean was a deeply peaceful moment.",positive
+"Our team won first place in the hackathon after an incredible weekend of coding.",positive
+"Kind words from a mentor gave me tremendous confidence and motivation.",positive
+"An absolute disaster from start to finish, complete waste of valuable time.",negative
+"Terrible script, atrocious pacing, and painfully awkward performances.",negative
+"The story was nonsensical and filled with unbearable clichés and tropes.",negative
+"I walked out of the theater halfway through because it was so agonizingly dull.",negative
+"Lazy writing, flat lighting, and cringe-inducing dialogue throughout.",negative
+"None of the jokes landed and the entire theater sat in uncomfortable silence.",negative
+"A pretentious, boring mess that masquerades as profound philosophy.",negative
+"The sound effects were grating and the background music was unbearably loud.",negative
+"Completely ruined what could have been a promising premise with terrible execution.",negative
+"I felt insulted by how predictable and utterly generic the entire storyline was.",negative
+"The item arrived broken into pieces due to inadequate and flimsy packaging.",negative
+"Customer service was rude, uncooperative, and refused to issue a replacement.",negative
+"The hardware stopped functioning after two days and customer support vanished.",negative
+"Cheap, flimsy build quality that broke under normal everyday operation.",negative
+"Terrible battery life that drains to zero in less than forty minutes of usage.",negative
+"The mobile app crashes every single time I try to complete a checkout transaction.",negative
+"False advertising; the real specifications are far inferior to what is promised.",negative
+"Extremely noisy fan and unbearable heating issues during basic office tasks.",negative
+"A total rip-off with hidden fees and zero post-purchase assistance available.",negative
+"The firmware update bricked the device completely and rendered it unusable.",negative
+"The soup was watery and bland, while the pasta was overcooked and mushy.",negative
+"We found hair in our food and the manager showed zero remorse or apology.",negative
+"Unsanitary restaurant environment, sticky tables, and disgustingly dirty glasses.",negative
+"Terrible service where we had to wait seventy minutes just for cold appetizers.",negative
+"Overpriced food that tasted stale, artificial, and devoid of any seasoning.",negative
+"The waiter was extremely abrasive and dismissive whenever we asked questions.",negative
+"Food poisoning after eating here ruined our entire weekend trip completely.",negative
+"A chaotic kitchen that got our dietary allergies wrong despite multiple warnings.",negative
+"The drinks were watered down and tasted like sugary syrup with no flavor.",negative
+"Worst dining experience in years; would never recommend this place to anyone.",negative
+"My flight was cancelled without any prior notification, leaving us stranded.",negative
+"Lost all my luggage containing irreplaceable personal items and work documents.",negative
+"Received terrible news regarding the cancellation of our funding and grant.",negative
+"A disastrous presentation where technical failures derailed the entire agenda.",negative
+"Feeling burned out, mentally exhausted, and overwhelmed with unreasonable demands.",negative
+"The pipe burst in the basement and caused catastrophic water damage overnight.",negative
+"Caught in a torrential downpour while our car broke down on a deserted highway.",negative
+"Deeply betrayed by colleagues whom I trusted with confidential collaboration.",negative
+"Everything that could possibly go wrong today went wrong in the worst way.",negative
+"An unfair, hostile, and completely stressful environment to work in.",negative
+"I do not think this is acceptable behavior and I cannot condone this outcome.",negative
+"There is no excuse for such poor quality control and lack of accountability.",negative
+"This product did not meet any of our expectations and failed our basic safety test.",negative
+"We are not pleased with the outcome and cannot recommend this contractor.",negative
+"It was neither entertaining nor thought-provoking, simply a dull bore.",negative
+"I am not happy with how this situation was handled by management.",negative
+"The software does not function on modern operating systems as falsely advertised.",negative
+"We were unable to get any help, and our tickets were closed without resolution.",negative
+"Not a single feature worked as demonstrated in the marketing video.",negative
+"This is by no means an acceptable solution to a long-standing critical problem.",negative
+"Do not miss this cinematic triumph, it is a masterclass in modern storytelling.",positive
+"Never have I been so pleasantly surprised by an unexpected indie gem.",positive
+"Not only does it look gorgeous, but it also functions smoothly and reliably.",positive
+"There is no doubt that this team has delivered an exceptional and robust product.",positive
+"I cannot wait to purchase another unit for my family members; they will love it.",positive
+"Not an ordinary gadget, this is an exquisitely designed, indispensable tool.",positive
+"We were not let down in the slightest; every promise was delivered with excellence.",positive
+"You will not regret choosing this service, their punctuality is outstanding.",positive
+"It is not often that one finds such genuine passion and dedicated craftsmanship.",positive
+"Without hesitation, this remains my top choice for any professional workflow.",positive
+"A captivating tale that leaves you feeling inspired, hopeful, and empowered.",positive
+"The cinematography was poetic, weaving breathtaking colors into every frame.",positive
+"Phenomenal sound design and a mesmerizing score that tugs at the heartstrings.",positive
+"A sharp, hilarious screenplay packed with witty banter and heartfelt moments.",positive
+"The actors brought immense authenticity, vulnerability, and charisma to life.",positive
+"An instant classic that will be celebrated, discussed, and rewatched for years.",positive
+"Magnificent directing that handles sensitive themes with grace and nuance.",positive
+"Every scene felt purposeful, engaging the audience's mind and imagination.",positive
+"A triumphant achievement for everyone involved in this magnificent production.",positive
+"A heartwarming and delightful story that left the entire theater smiling.",positive
+"Remarkable build quality and sleek design that feels luxurious in hand.",positive
+"Seamless installation process with crystal clear, easy-to-follow instructions.",positive
+"Blazing fast performance that handled all our computationally heavy workloads.",positive
+"Superb battery management that easily sustains long work trips on a single charge.",positive
+"The display is vibrant, sharp, and wonderfully bright even under direct sunlight.",positive
+"Customer support was courteous, empathetic, and resolved my problem on the spot.",positive
+"An absolute bargain given the extensive feature set and outstanding longevity.",positive
+"Ergonomic design that provides immense comfort during extended typing sessions.",positive
+"Consistent and dependable software updates that actively listen to community feedback.",positive
+"I am completely satisfied with my order and look forward to ordering again.",positive
+"Savory, mouth-watering flavors that danced on the palate with every bite.",positive
+"Charming decor, soft ambient jazz, and warm attentive service throughout.",positive
+"The pastry chef is an artist; the lemon tart was refreshingly balanced and crisp.",positive
+"Fresh, locally sourced ingredients that shine through in every delicious recipe.",positive
+"Generous portion sizes, quick service, and wonderfully reasonable pricing.",positive
+"An exceptional culinary destination that never fails to impress visiting guests.",positive
+"The pasta was made fresh in-house, delicate yet perfectly al dente.",positive
+"A peaceful garden terrace where you can enjoy fantastic coffee and baked treats.",positive
+"Friendly baristas who remember your preferred order and greet you with genuine cheer.",positive
+"Wonderful selection of vegan and gluten-free pastries that taste sensational.",positive
+"An incredible feeling of accomplishment after finishing my first marathon today!",positive
+"Reconnecting with old university companions brought back endless happy memories.",positive
+"The team received unanimous praise from senior leadership for our stellar launch.",positive
+"Such a peaceful morning listening to birdsong with a warm cup of coffee.",positive
+"We were blessed with glorious weather throughout our entire family vacation.",positive
+"A breakthrough moment in our research that opens up wonderful new possibilities.",positive
+"Receiving an unexpected handwritten thank-you note made my entire afternoon.",positive
+"My heart is filled with immense gratitude and love for this wonderful community.",positive
+"Everything aligned seamlessly to make this gathering a resounding success.",positive
+"Celebrating good health, loving friendships, and new creative milestones.",positive
+"An utter failure that collapses under the weight of its own clumsy ambition.",negative
+"Excruciatingly dull, monotonous, and completely devoid of any emotional spark.",negative
+"The acting was stilted and unnatural, reminiscent of amateur high school rehearsals.",negative
+"Painfully contrived screenplay that relies on cheap tropes and absurd coincidences.",negative
+"A colossal waste of talent, budget, and two hours of my precious weekend.",negative
+"The visual effects look twenty years outdated and took me out of the story completely.",negative
+"Muddled storyline, incomprehensible audio mixing, and jarringly disjointed editing.",negative
+"It tries desperately to be clever and deep, but only succeeds in being utterly tedious.",negative
+"The characters are so thoroughly repulsive and irritating that you wish they would fail.",negative
+"A completely unmemorable and frustrating flick that lacks any genuine substance.",negative
+"The item arrived shattered into shards due to almost non-existent cushioning.",negative
+"Terrible customer service that kept passing me between departments for two hours.",negative
+"The mechanism snapped on the very first day of cautious and gentle operation.",negative
+"Horrendous battery performance that discharges completely within twenty minutes.",negative
+"Constant software crashes make it impossible to get any productive work done.",negative
+"The device overheats to dangerous temperatures within fifteen minutes of light gaming.",negative
+"Blatantly deceptive advertising; features claimed on the packaging do not exist.",negative
+"Cheap, flimsy plastic that creaks loudly whenever you handle or press the buttons.",negative
+"Refused my legitimate warranty claim with vague, insulting corporate boilerplate.",negative
+"An absolute nightmare to set up, accompanied by broken and unreadable manuals.",negative
+"The food tasted old, reheated, and completely drowned in cheap greasy oil.",negative
+"Found multiple pieces of sharp plastic in the salad, posing a severe choking hazard.",negative
+"The waiter was condescending, impatient, and practically threw our plates on the table.",negative
+"We waited for nearly two hours in a freezing cold dining room for sub-par food.",negative
+"Stale, rock-hard bread rolls and tasteless soup that smelled of sulfur.",negative
+"Filthy restroom with overflowing trash cans and no soap or water available.",negative
+"Disastrous experience that culminated in severe food poisoning for our entire family.",negative
+"The manager refused to void the charges for items that were never delivered to our table.",negative
+"Soggy pizza, undercooked dough, and artificial cheese that tasted chemical.",negative
+"A horrible establishment that deserves to be shut down by health inspectors.",negative
+"Caught in severe airport cancellations with zero food, water, or hotel vouchers provided.",negative
+"Woke up to find our basement flooded with sewer water after municipal line failure.",negative
+"Received devastating news about severe company layoffs affecting half our department.",negative
+"The project suffered a catastrophic system crash that wiped weeks of unsaved data.",negative
+"Dealing with relentless bureaucratic red tape and unresponsive government desks.",negative
+"A miserable, rainy week marked by severe migraines and persistent dental pain.",negative
+"Feeling isolated, unappreciated, and treated with cold hostility by peers.",negative
+"Our vehicle was vandalized while parked in what was supposed to be a secure lot.",negative
+"A bitter disappointment that shattered all our expectations and hard efforts.",negative
+"The situation spiraled out of control and caused immense grief and frustration.",negative
+"This is not acceptable and cannot be tolerated under any standard of decency.",negative
+"We were not treated fairly and our legitimate concerns were completely ignored.",negative
+"The service does not provide the reliability or security that was promised.",negative
+"I do not recommend this hotel to anyone seeking peace and quiet during vacation.",negative
+"There is no value in this service, and the subscription cannot be easily cancelled.",negative
+"The team did not show up on time and did not complete the contracted repairs.",negative
+"This movie did not make any sense and will not be remembered fondly.",negative
+"It was not what we hoped for; in fact it was a terrible letdown for everyone.",negative
+"I am not convinced by the explanations and cannot endorse this decision.",negative
+"Not a single person in our group enjoyed the performance or the venue.",negative
+"It is not every day that one witnesses such breathtaking artistry and storytelling.",positive
+"You will not find a more compassionate, capable, and professional medical staff.",positive
+"Do not overlook this incredible masterpiece; it will stay with you forever.",positive
+"Not a single detail was overlooked in making this special celebration flawless.",positive
+"I have no doubt that this will remain an indispensable part of our daily routine.",positive
+"It is not just good, it is easily the best investment we have made this year.",positive
+"Never fails to deliver a warm, comforting, and thoroughly delicious meal.",positive
+"There was no shortage of thrilling moments throughout the championship match.",positive
+"Not only did they meet our deadline, but they also delivered impeccable quality.",positive
+"Without a shadow of a doubt, this is the most enjoyable experience of the year.",positive
+
